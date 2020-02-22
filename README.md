@@ -1,26 +1,26 @@
 # Tesseract_OCR
 
-#Version 1.0
+- Version 1.0
 
-#About
+# About
 
 - This project complete the picture OCR automatic recognition.
 
 - Tesseract OCR lang file (tessata/eng.traineddata) was trained using this Gist script file and a License Plate font.
 
-#Requirements:
+# Requirements:
 
 **Tesseract 4.0(x64) and leptonica-1.76.0 libraries.**
 
 **Visual Studio 2015**
 
-#Installation
+# Installation
 
 - You should have the following folder structure:
 
-**Load the path of the bin file into the system environment variable.**
+**Load the path of the bin file in the TesseractOCR into the system environment variable.**
 
-#Usage
+# Usage
 
 - Here is the default workflow to extract text from an image:
 
@@ -37,7 +37,7 @@
 - Clear
 
 
-#Improvements
+# Improvements
 
 - Improve image processing.
 
