@@ -4,9 +4,9 @@
 
 #About
 
-This project complete the picture OCR automatic recognition.
+- This project complete the picture OCR automatic recognition.
 
-Tesseract OCR lang file (tessata/eng.traineddata) was trained using this Gist script file and a License Plate font.
+- Tesseract OCR lang file (tessata/eng.traineddata) was trained using this Gist script file and a License Plate font.
 
 #Requirements:
 
@@ -16,39 +16,39 @@ Tesseract OCR lang file (tessata/eng.traineddata) was trained using this Gist sc
 
 #Installation
 
-You should have the following folder structure:
+- You should have the following folder structure:
 
 **Load the path of the bin file into the system environment variable.**
 
 #Usage
 
-Here is the default workflow to extract text from an image:
+- Here is the default workflow to extract text from an image:
 
-Instantiate Tesseract with data path and language
+- Instantiate Tesseract with data path and language
 
-Set variables (character set, …)
+- Set variables (character set, …)
 
-Set the image to analyze
+- Set the image to analyze
 
-Start recognition
+- Start recognition
 
-Get recognized text
+- Get recognized text
 
-Clear
+- Clear
 
 
 #Improvements
 
-Improve image processing.
+- Improve image processing.
 
-Improve square (plate) detection.
+- Improve square (plate) detection.
 
-Perspective transform (or 3D).
+- Perspective transform (or 3D).
 
-Improve contour detection algorithm.
+- Improve contour detection algorithm.
 
-Improve ROI license plate area.
+- Improve ROI license plate area.
 
-Better image crop.
+- Better image crop.
 
 
